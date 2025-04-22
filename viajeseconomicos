@@ -1,8 +1,0 @@
-unzip viajes-economicos-completo.zip
-cd viajes-economicos
-git init
-git add .
-git commit -m "Versión completa de Viajes Económicos"
-git branch -M main
-git remote add origin https://github.com/Jetdamaty/viajes-economicos.git
-git push -u origin main
